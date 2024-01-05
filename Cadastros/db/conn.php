@@ -2,9 +2,9 @@
 
 $host = "localhost";
 $user = "root";
-//$pwd = "Hiequ9do";
+//$pwd = "******";
 $pwd = "";
-$db = "intervip2021";
+$db = "******";
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$db", $user, $pwd, array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES utf8"));
