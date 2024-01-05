@@ -1,8 +1,8 @@
 <?php
 
-$host = "187.73.224.67";
+$host = "******";
 $user = "Prema";
-$pwd = "25GlQacRRsdAq5RgSkl5fr4df#3w";
+$pwd = "******";
 $db = "isupergaus";
 
 try {
